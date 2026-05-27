@@ -1,5 +1,5 @@
 {
-  "products": [
+  "slideimg": [
     { "id": 1, "number": "01", "title": "会議室" },
     { "id": 2, "number": "02", "title": "ビルディング" },
     { "id": 3, "number": "03", "title": "トレイルランニング01" },
