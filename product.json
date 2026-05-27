@@ -1,11 +1,36 @@
 {
   "slideimg": [
-    { "id": 1, "number": "01", "title": "会議室" },
-    { "id": 2, "number": "02", "title": "ビルディング" },
-    { "id": 3, "number": "03", "title": "トレイルランニング01" },
-    { "id": 4, "number": "04", "title": "トレイルランニング02" },
-    { "id": 5, "number": "05", "title": "トレイルランニング03" },
-    { "id": 6, "number": "06", "title": "道" },
-    { "id": 7, "number": "07", "title": "山岳地帯(動画)" }
+    { "id": 1, "number": "01", "caption": "テキスト", "description": "会議室" },
+    {
+      "id": 2,
+      "number": "02",
+      "caption": "テキスト",
+      "description": "ビルディング"
+    },
+    {
+      "id": 3,
+      "number": "03",
+      "caption": "テキスト",
+      "description": "トレイルランニング01"
+    },
+    {
+      "id": 4,
+      "number": "04",
+      "caption": "テキスト",
+      "description": "トレイルランニング02"
+    },
+    {
+      "id": 5,
+      "number": "05",
+      "caption": "テキスト",
+      "description": "トレイルランニング03"
+    },
+    { "id": 6, "number": "06", "caption": "テキスト", "description": "道" },
+    {
+      "id": 7,
+      "number": "07",
+      "caption": "テキスト",
+      "description": "山岳地帯(動画)"
+    }
   ]
 }
