@@ -4,43 +4,57 @@
       "id": 1,
       "number": "01",
       "caption": "静寂が、思考を研ぎ澄まします。",
-      "description": "会議室"
+      "description": "会議室",
+      "type": "img",
+      "src": "img/01.jpg"
     },
     {
       "id": 2,
       "number": "02",
       "caption": "都市の鼓動が、ここに集う。",
-      "description": "ビルディング"
+      "description": "ビルディング",
+      "type": "img",
+      "src": "img/02.jpg"
     },
     {
       "id": 3,
       "number": "03",
       "caption": "大地を蹴り、風になれ。",
-      "description": "トレイルランニング01"
+      "description": "トレイルランニング01",
+      "type": "img",
+      "src": "img/03.jpg"
     },
     {
       "id": 4,
       "number": "04",
       "caption": "限界の先に、景色がある。",
-      "description": "トレイルランニング02"
+      "description": "トレイルランニング02",
+      "type": "img",
+      "src": "img/04.jpg"
     },
     {
       "id": 5,
       "number": "05",
       "caption": "自然と身体が、ひとつになる瞬間。",
-      "description": "トレイルランニング03"
+      "description": "トレイルランニング03",
+      "type": "img",
+      "src": "img/05.jpg"
     },
     {
       "id": 6,
       "number": "06",
       "caption": "どこまでも続く、自由な一本道。",
-      "description": "道"
+      "description": "道",
+      "type": "img",
+      "src": "img/06.jpg"
     },
     {
       "id": 7,
       "number": "07",
       "caption": "雄大な稜線が、静かに語りかける。",
-      "description": "山岳地帯(動画)"
+      "description": "山岳地帯(動画)",
+      "type": "video",
+      "src": "movie/07.mp4"
     }
   ]
 }
