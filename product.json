@@ -168,7 +168,7 @@
       "caption": "またたく星々が、無限の可能性を教えてくれる。",
       "description": "満天の星空(動画)",
       "type": "video",
-      "src": "movie/08.mp4"
+      "src": "movie/02.mp4"
     },
     {
       "id": 15,
@@ -224,7 +224,7 @@
       "caption": "打ち寄せる波が、古い思考を洗い流していく。",
       "description": "海岸線(動画)",
       "type": "video",
-      "src": "movie/15.mp4"
+      "src": "movie/03.mp4"
     }
   ]
 }
