@@ -209,6 +209,22 @@
       "description": "都市の夜景",
       "type": "img",
       "src": "img/17.jpg"
+    },
+    {
+      "id": 20,
+      "number": "20",
+      "caption": "木の温もりが、張り詰めた糸を優しくほどく。",
+      "description": "ラウンジ",
+      "type": "img",
+      "src": "img/18.jpg"
+    },
+    {
+      "id": 21,
+      "number": "21",
+      "caption": "打ち寄せる波が、古い思考を洗い流していく。",
+      "description": "海岸線(動画)",
+      "type": "video",
+      "src": "movie/03.mp4"
     }
   ]
 }
