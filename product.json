@@ -209,7 +209,8 @@
       "description": "都市の夜景",
       "type": "img",
       "src": "img/17.jpg"
-    }, {
+    }, 
+    {
       "id": 20,
       "number": "20",
       "caption": "木の温もりが、張り詰めた糸を優しくほどく。",
