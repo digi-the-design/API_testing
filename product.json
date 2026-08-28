@@ -363,22 +363,6 @@
       "description": "山頂の景色",
       "type": "img",
       "src": "img/15.jpg"
-    },
-    {
-      "id": 18,
-      "number": "18",
-      "caption": "澄んだ空気の中を、どこまでも駆け抜けて。",
-      "description": "高原トレイル",
-      "type": "img",
-      "src": "img/16.jpg"
-    },
-    {
-      "id": 19,
-      "number": "19",
-      "caption": "夜の街を彩る、光のストリーム。",
-      "description": "都市の夜景",
-      "type": "img",
-      "src": "img/17.jpg"
     }
   ]
 }
